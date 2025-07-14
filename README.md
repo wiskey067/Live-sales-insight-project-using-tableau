@@ -1,34 +1,33 @@
-# 📊 Sales Performance Dashboard – Tableau + MySQL (Live SQL)
-
-This project showcases an interactive Tableau dashboard built using live SQL connections to a MySQL database. Since Tableau Public doesn't support live queries, I've included static exports and the full project breakdown here.
-
----
-
-## 🚀 Project Goals
-
-- Visualize key sales KPIs (revenue, orders, conversion rate)
-- Segment customers by region, product category, and sales trends
-- Enable real-time data insights using live SQL queries
-
----
-
-## 🛠️ Tools & Technologies
-
-- **Tableau Desktop** (with live MySQL connection)
-- **MySQL** – Data extraction, cleaning, joins
-- **SQL** – Aggregation, filtering, CTEs, window functions
-- **Excel/CSV** (optional) – Backup or extracts
-
----
-
-## 📂 Project Files
-
-| File | Description |
-|------|-------------|
-| `live sales insight code .twb` | Tableau workbook (requires live SQL access) |
-| `transactions+ (sales).hyper` | Packaged version with extracted data |
-| `db_dump_version_2.sql` | All SQL queries used in the dashboard |
-| `presentation.pptx` | Project walkthrough / explanation |
 
 
----
+📊 Sales Performance Dashboard – Tableau + MySQL (Live SQL)
+
+This project showcases an interactive Tableau dashboard powered by live SQL connections to a MySQL database. Since Tableau Public does not support live queries, I’ve included static exports, a walkthrough presentation, and all related project files below.
+
+⸻
+
+🚀 Project Objectives
+	•	Visualize key sales KPIs: Total Revenue, Order Volume, and Conversion Rate
+	•	Segment customer data by region, product category, and time-based trends
+	•	Enable real-time insights by using live SQL queries connected to MySQL
+
+⸻
+
+🛠️ Tools & Technologies Used
+	•	Tableau Desktop – Built dashboard with live SQL connectivity
+	•	MySQL Database – Data extraction, transformation, and joins
+	•	SQL Queries – Used aggregation, filtering, CTEs, and window functions
+	•	Excel/CSV – Used for backup datasets and extracts (optional)
+
+⸻
+
+📁 Project Assets
+
+File Name	Description
+live_sales_insight_code.twb	Tableau workbook (requires MySQL live connection)
+transactions_plus_sales.hyper	Tableau packaged workbook with extracted data
+db_dump_version_2.sql	SQL scripts: table creation, data cleaning, KPI queries
+presentation.pptx	Slide walkthrough of project goals, methods, and insights
+video_sales_insights_live.mp4	Demo recording showcasing live SQL dashboard
+
+
