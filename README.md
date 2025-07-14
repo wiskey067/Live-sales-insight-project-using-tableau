@@ -25,10 +25,9 @@ This project showcases an interactive Tableau dashboard built using live SQL con
 
 | File | Description |
 |------|-------------|
-| `dashboard.pdf` | Final dashboard (exported from Tableau) |
-| `dashboard.twb` | Tableau workbook (requires live SQL access) |
-| `dashboard.twbx` | Packaged version with extracted data |
-| `queries.sql` | All SQL queries used in the dashboard |
+| `live sales insight code .twb` | Tableau workbook (requires live SQL access) |
+| `transactions+ (sales).hyper` | Packaged version with extracted data |
+| `db_dump_version_2.sql` | All SQL queries used in the dashboard |
 | `presentation.pptx` | Project walkthrough / explanation |
 
 
