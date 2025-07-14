@@ -2,7 +2,7 @@
 
 📊 Sales Performance Dashboard – Tableau + MySQL (Live SQL)
 
-This project showcases an interactive Tableau dashboard powered by live SQL connections to a MySQL database. Since Tableau Public does not support live queries, I’ve included static exports, a walkthrough presentation, and all related project files below.
+This project showcases an interactive Tableau dashboard powered by live SQL connections to a MySQL database. Since Tableau Public does not support live queries, I’ve included static exports, a walkthrough presentation, Recorded video and all related project files below.
 
 ⸻
 
